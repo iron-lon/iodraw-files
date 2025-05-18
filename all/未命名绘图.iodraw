@@ -17,7 +17,7 @@
           <mxGeometry x="188" y="210" width="132" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-78" value="选择方式" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="195" y="290" width="115" height="115" as="geometry" />
+          <mxGeometry x="196.5" y="290" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-79" value="填信息→验证→保存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="60" y="450" width="204" height="51" as="geometry" />
@@ -26,10 +26,10 @@
           <mxGeometry x="290" y="450" width="204" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-81" value="进入个人中心" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="191" y="534" width="126" height="51" as="geometry" />
+          <mxGeometry x="191" y="520" width="126" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-82" value="预约/查看资料" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="221" y="610" width="134" height="51" as="geometry" />
+          <mxGeometry x="187" y="610" width="134" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-83" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="260" y="700" width="56" height="36" as="geometry" />
