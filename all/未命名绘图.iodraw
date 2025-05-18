@@ -26,7 +26,7 @@
           <mxGeometry x="250" y="920" width="126" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-102" value="确认预约" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="266" y="1191" width="94" height="51" as="geometry" />
+          <mxGeometry x="269" y="1010" width="94" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-103" value="保存预约信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="250" y="1292" width="126" height="51" as="geometry" />
@@ -98,6 +98,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="145" y="1028" />
+              <mxPoint x="180" y="920" />
             </Array>
           </mxGeometry>
         </mxCell>
