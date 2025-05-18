@@ -11,19 +11,19 @@
           <mxGeometry x="268.5" y="570" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-97" value="查看理发师/项目" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="134" y="785" width="150" height="51" as="geometry" />
+          <mxGeometry x="170" y="685" width="150" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-98" value="查看预约列表" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="283" y="1493" width="126" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-99" value="已登录?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="157" y="886" width="104" height="104" as="geometry" />
+          <mxGeometry x="194" y="780" width="104" height="104" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-100" value="跳转到登录" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="90" y="1065" width="110" height="51" as="geometry" />
+          <mxGeometry x="100" y="920" width="110" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-101" value="选择预约时间" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="250" y="1065" width="126" height="51" as="geometry" />
+          <mxGeometry x="250" y="920" width="126" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-102" value="确认预约" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="266" y="1191" width="94" height="51" as="geometry" />
