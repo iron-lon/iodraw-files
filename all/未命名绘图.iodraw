@@ -29,10 +29,10 @@
           <mxGeometry x="225" y="534" width="126" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-82" value="预约/查看资料" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="195" y="777" width="134" height="51" as="geometry" />
+          <mxGeometry x="217" y="610" width="134" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-83" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="234" y="878" width="56" height="36" as="geometry" />
+          <mxGeometry x="254" y="700" width="56" height="36" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="3NinHR6jCPQC8PwMks1l-74" target="3NinHR6jCPQC8PwMks1l-75">
           <mxGeometry relative="1" as="geometry">
