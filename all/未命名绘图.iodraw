@@ -136,10 +136,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-34" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.5;entryY=0.01;rounded=0;fontSize=18;" edge="1" parent="1" source="3NinHR6jCPQC8PwMks1l-8" target="3NinHR6jCPQC8PwMks1l-10">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.7408" y="12" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="270" y="650" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="3NinHR6jCPQC8PwMks1l-10" target="3NinHR6jCPQC8PwMks1l-11">
