@@ -29,10 +29,10 @@
           <mxGeometry x="170" y="1220" width="126" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-143" value="发送预约通知" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="20" y="1499" width="126" height="51" as="geometry" />
+          <mxGeometry x="17" y="1300" width="126" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-144" value="显示预约成功" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="20" y="1600" width="126" height="51" as="geometry" />
+          <mxGeometry x="17" y="1370" width="126" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-145" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="55" y="1701" width="56" height="36" as="geometry" />
@@ -75,7 +75,7 @@
         <mxCell id="3NinHR6jCPQC8PwMks1l-153" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=-0.01;entryX=0.93;entryY=1;rounded=0;" edge="1" parent="1" source="3NinHR6jCPQC8PwMks1l-142" target="3NinHR6jCPQC8PwMks1l-138">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="278" y="1083" />
+              <mxPoint x="240" y="1050" />
             </Array>
           </mxGeometry>
         </mxCell>
