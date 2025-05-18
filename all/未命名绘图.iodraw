@@ -20,13 +20,13 @@
           <mxGeometry x="503" y="541" width="142" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-207" value="进入编辑页面" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="327" y="642" width="126" height="51" as="geometry" />
+          <mxGeometry x="360" y="642" width="126" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-208" value="更新理发师信息" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="503" y="642" width="142" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-209" value="确认删除" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="343" y="742" width="94" height="51" as="geometry" />
+          <mxGeometry x="376" y="742" width="94" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-210" value="删除理发师信息" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="503" y="742" width="142" height="51" as="geometry" />
