@@ -20,7 +20,7 @@
           <mxGeometry x="237.5" y="360" width="103" height="36" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-6" value="选择登录" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="742" y="392" width="103" height="36" as="geometry" />
+          <mxGeometry x="640" y="370" width="103" height="36" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-7" value="填写注册信息" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="214.5" y="420" width="126" height="51" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="215" y="690" width="199" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-11" value="注册是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="267" y="880" width="147" height="147" as="geometry" />
+          <mxGeometry x="245" y="790" width="147" height="147" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-12" value="提示注册失败" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="188" y="1123" width="126" height="51" as="geometry" />
