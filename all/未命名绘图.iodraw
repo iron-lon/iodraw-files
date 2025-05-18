@@ -29,10 +29,10 @@
           <mxGeometry x="107" y="478" width="147" height="147" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-9" value="提示信息不完整" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="60" y="740" width="142" height="51" as="geometry" />
+          <mxGeometry x="60" y="690" width="142" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-10" value="发送注册请求: api/vreg" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="228" y="800" width="199" height="51" as="geometry" />
+          <mxGeometry x="215" y="675" width="199" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-11" value="注册是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="254" y="901" width="147" height="147" as="geometry" />
@@ -138,7 +138,7 @@
         <mxCell id="3NinHR6jCPQC8PwMks1l-34" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.5;entryY=0.01;rounded=0;fontSize=18;" edge="1" parent="1" source="3NinHR6jCPQC8PwMks1l-8" target="3NinHR6jCPQC8PwMks1l-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="328" y="763" />
+              <mxPoint x="270" y="650" />
             </Array>
           </mxGeometry>
         </mxCell>
