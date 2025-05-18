@@ -11,13 +11,13 @@
           <mxGeometry x="96" y="770" width="150" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-137" value="选择服务" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="124" y="907" width="94" height="51" as="geometry" />
+          <mxGeometry x="124" y="840" width="94" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-138" value="选择预约时间" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="108" y="1007" width="126" height="51" as="geometry" />
+          <mxGeometry x="108" y="910" width="126" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-139" value="确认预约信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="48" y="1108" width="126" height="51" as="geometry" />
+          <mxGeometry x="54" y="1070" width="126" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-140" value="提交预约" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="54" y="1209" width="115" height="115" as="geometry" />
