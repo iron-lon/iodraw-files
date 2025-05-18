@@ -22,7 +22,7 @@
         <mxCell id="2quYoNjLTsEhTqzhpODy-6" value="cate" style="shape=table;startSize=75;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="546" y="1610" width="100" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="2quYoNjLTsEhTqzhpODy-7" value="haircut" style="shape=table;startSize=75;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="2quYoNjLTsEhTqzhpODy-7" value="理发项目" style="shape=table;startSize=75;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="546" y="1785" width="100" height="75" as="geometry" />
         </mxCell>
         <mxCell id="2quYoNjLTsEhTqzhpODy-8" value="会员" style="shape=table;startSize=75;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
