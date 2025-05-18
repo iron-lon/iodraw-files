@@ -1,20 +1,20 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="cOmOevj3u60AVkC1phZ5">
-    <mxGraphModel dx="1869" dy="1782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1869" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3NinHR6jCPQC8PwMks1l-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="167" width="56" height="36" as="geometry" />
+          <mxGeometry x="226" y="70" width="56" height="36" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-2" value="是否已登录" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="130" y="86" width="131" height="131" as="geometry" />
+          <mxGeometry x="188" y="150" width="131" height="131" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-3" value="进入个人中心" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="357" y="1324" width="126" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-4" value="显示登录/注册选项" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="370" y="291" width="166" height="51" as="geometry" />
+          <mxGeometry x="331" y="270" width="166" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-5" value="选择注册" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="238" y="392" width="103" height="36" as="geometry" />
