@@ -31,7 +31,7 @@
         <mxCell id="2quYoNjLTsEhTqzhpODy-9" value="barber_evaluate" style="shape=table;startSize=75;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="1960" width="116" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="2quYoNjLTsEhTqzhpODy-10" value="haircut_evaluate" style="shape=table;startSize=75;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="2quYoNjLTsEhTqzhpODy-10" value="理发项目评价" style="shape=table;startSize=75;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="636" y="1960" width="119" height="75" as="geometry" />
         </mxCell>
         <mxCell id="2quYoNjLTsEhTqzhpODy-11" value="barber" style="shape=table;startSize=75;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
