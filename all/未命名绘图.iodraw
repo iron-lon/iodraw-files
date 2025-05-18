@@ -45,7 +45,7 @@
         <mxCell id="2quYoNjLTsEhTqzhpODy-13" value="分类" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.07;exitY=1;entryX=0.97;entryY=0;rounded=0;" edge="1" parent="1" source="2quYoNjLTsEhTqzhpODy-3" target="2quYoNjLTsEhTqzhpODy-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="181" y="1910" />
+              <mxPoint x="250" y="1900" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -59,7 +59,7 @@
         <mxCell id="2quYoNjLTsEhTqzhpODy-15" value="状态" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.5;exitY=1;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="1" source="2quYoNjLTsEhTqzhpODy-3" target="2quYoNjLTsEhTqzhpODy-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="281" y="1910" />
+              <mxPoint x="340" y="1900" />
             </Array>
           </mxGeometry>
         </mxCell>
