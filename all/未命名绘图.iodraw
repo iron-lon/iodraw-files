@@ -14,7 +14,7 @@
           <mxGeometry x="231" y="1785" width="100" height="75" as="geometry" />
         </mxCell>
         <mxCell id="2quYoNjLTsEhTqzhpODy-4" value="理发师预约" style="shape=table;startSize=75;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="891" y="1960" width="140" height="75" as="geometry" />
+          <mxGeometry x="830" y="1980" width="140" height="75" as="geometry" />
         </mxCell>
         <mxCell id="2quYoNjLTsEhTqzhpODy-5" value="理发项目预约" style="shape=table;startSize=75;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="1960" width="142" height="75" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="636" y="1960" width="119" height="75" as="geometry" />
         </mxCell>
         <mxCell id="2quYoNjLTsEhTqzhpODy-11" value="理发师" style="shape=table;startSize=75;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="1178" y="1785" width="100" height="75" as="geometry" />
+          <mxGeometry x="1070" y="1740" width="100" height="75" as="geometry" />
         </mxCell>
         <mxCell id="2quYoNjLTsEhTqzhpODy-12" value="发布" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="2quYoNjLTsEhTqzhpODy-1" target="2quYoNjLTsEhTqzhpODy-2">
           <mxGeometry relative="1" as="geometry">
