@@ -23,7 +23,7 @@
           <mxGeometry x="60.5" y="1054" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-141" value="保存预约记录" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="20" y="1399" width="126" height="51" as="geometry" />
+          <mxGeometry x="17" y="1220" width="126" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-142" value="显示错误提示" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="196" y="1399" width="126" height="51" as="geometry" />
@@ -64,9 +64,7 @@
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-151" value="成功" style="curved=1;startArrow=none;endArrow=block;exitX=0.35;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="3NinHR6jCPQC8PwMks1l-140" target="3NinHR6jCPQC8PwMks1l-141">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="83" y="1361" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-152" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=1;entryX=0.31;entryY=-0.01;rounded=0;" edge="1" parent="1" source="3NinHR6jCPQC8PwMks1l-140" target="3NinHR6jCPQC8PwMks1l-142">
