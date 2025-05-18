@@ -20,7 +20,7 @@
           <mxGeometry x="195" y="290" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-79" value="填信息→验证→保存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="33" y="575" width="204" height="51" as="geometry" />
+          <mxGeometry x="60" y="450" width="204" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-80" value="填信息→验证→保存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="287" y="575" width="204" height="51" as="geometry" />
@@ -61,14 +61,14 @@
         <mxCell id="3NinHR6jCPQC8PwMks1l-88" value="注册" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.87;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="3NinHR6jCPQC8PwMks1l-78" target="3NinHR6jCPQC8PwMks1l-79">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="135" y="538" />
+              <mxPoint x="200" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-89" value="登录" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.87;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="3NinHR6jCPQC8PwMks1l-78" target="3NinHR6jCPQC8PwMks1l-80">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="389" y="538" />
+              <mxPoint x="310" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
