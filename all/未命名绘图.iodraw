@@ -41,7 +41,7 @@
           <mxGeometry x="183" y="1000" width="126" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-13" value="提示注册成功" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="364" y="1123" width="126" height="51" as="geometry" />
+          <mxGeometry x="351" y="1000" width="126" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-14" value="保存用户信息到本地存储" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="324" y="1224" width="206" height="51" as="geometry" />
@@ -166,7 +166,7 @@
         <mxCell id="3NinHR6jCPQC8PwMks1l-38" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0.47;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="3NinHR6jCPQC8PwMks1l-11" target="3NinHR6jCPQC8PwMks1l-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="416" y="1085" />
+              <mxPoint x="370" y="940" />
             </Array>
           </mxGeometry>
         </mxCell>
