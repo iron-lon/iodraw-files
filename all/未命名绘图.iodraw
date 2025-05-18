@@ -32,7 +32,7 @@
           <mxGeometry x="60" y="690" width="142" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-10" value="发送注册请求: api/vreg" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="215" y="690" width="199" height="51" as="geometry" />
+          <mxGeometry x="240" y="700" width="199" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-11" value="注册是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="245" y="790" width="147" height="147" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="495" y="700" width="142" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-18" value="发送登录请求: api/vlogin" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="726" y="800" width="211" height="51" as="geometry" />
+          <mxGeometry x="650" y="649" width="211" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-19" value="登录是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="758" y="901" width="147" height="147" as="geometry" />
