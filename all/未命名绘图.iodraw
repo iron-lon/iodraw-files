@@ -47,10 +47,10 @@
           <mxGeometry x="324" y="1224" width="206" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-15" value="填写登录信息" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="730" y="478" width="126" height="51" as="geometry" />
+          <mxGeometry x="615.5" y="420" width="126" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-16" value="信息是否完整" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="575" y="579" width="147" height="147" as="geometry" />
+          <mxGeometry x="490" y="490" width="147" height="147" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-17" value="提示信息不完整" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="534" y="800" width="142" height="51" as="geometry" />
