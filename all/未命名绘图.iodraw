@@ -20,13 +20,13 @@
           <mxGeometry x="196.5" y="290" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-79" value="填信息→验证→保存" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="60" y="450" width="204" height="51" as="geometry" />
+          <mxGeometry x="40" y="420" width="204" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-80" value="填信息→验证→保存" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="290" y="450" width="204" height="51" as="geometry" />
+          <mxGeometry x="282" y="420" width="204" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-81" value="进入个人中心" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="191" y="520" width="126" height="51" as="geometry" />
+          <mxGeometry x="191" y="500" width="126" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-82" value="预约/查看资料" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="187" y="590" width="134" height="51" as="geometry" />
