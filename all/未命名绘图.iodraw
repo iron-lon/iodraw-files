@@ -59,7 +59,7 @@
           <mxGeometry x="650" y="649" width="211" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-19" value="登录是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="758" y="901" width="147" height="147" as="geometry" />
+          <mxGeometry x="680" y="751" width="147" height="147" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-20" value="提示登录失败" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="751" y="1123" width="126" height="51" as="geometry" />
@@ -203,7 +203,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="620" y="610" />
-              <mxPoint x="979" y="554" />
+              <mxPoint x="730" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
