@@ -23,10 +23,10 @@
           <mxGeometry x="60" y="450" width="204" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-80" value="填信息→验证→保存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="287" y="575" width="204" height="51" as="geometry" />
+          <mxGeometry x="290" y="450" width="204" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-81" value="进入个人中心" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="199" y="676" width="126" height="51" as="geometry" />
+          <mxGeometry x="225" y="534" width="126" height="51" as="geometry" />
         </mxCell>
         <mxCell id="3NinHR6jCPQC8PwMks1l-82" value="预约/查看资料" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="195" y="777" width="134" height="51" as="geometry" />
