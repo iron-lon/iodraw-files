@@ -85,7 +85,7 @@
         <mxCell id="2quYoNjLTsEhTqzhpODy-19" value="评价" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.66;entryX=0.25;entryY=0;rounded=0;" edge="1" parent="1" source="2quYoNjLTsEhTqzhpODy-8" target="2quYoNjLTsEhTqzhpODy-9">
           <mxGeometry x="-0.3571" y="14" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1160" y="1910" />
+              <mxPoint x="1050" y="1910" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -107,7 +107,7 @@
         <mxCell id="2quYoNjLTsEhTqzhpODy-22" value="被评价" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.7;exitY=1;entryX=0.67;entryY=0;rounded=0;" edge="1" parent="1" source="2quYoNjLTsEhTqzhpODy-11" target="2quYoNjLTsEhTqzhpODy-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1274" y="1910" />
+              <mxPoint x="1030" y="1920" />
             </Array>
           </mxGeometry>
         </mxCell>
