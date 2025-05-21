@@ -64,6 +64,9 @@
         <mxCell id="qIoVRnadr-T4ANce19WU-20" value="预约状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="60" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qIoVRnadr-T4ANce19WU-22" value="预约状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
