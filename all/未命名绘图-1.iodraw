@@ -41,6 +41,11 @@
         <mxCell id="qIoVRnadr-T4ANce19WU-61" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="qIoVRnadr-T4ANce19WU-4" target="qIoVRnadr-T4ANce19WU-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qIoVRnadr-T4ANce19WU-78" value="M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="qIoVRnadr-T4ANce19WU-61">
+          <mxGeometry x="0.0133" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-4" value="理发师预约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -50,7 +55,7 @@
         <mxCell id="qIoVRnadr-T4ANce19WU-73" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="qIoVRnadr-T4ANce19WU-6" target="qIoVRnadr-T4ANce19WU-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qIoVRnadr-T4ANce19WU-77" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="qIoVRnadr-T4ANce19WU-73">
+        <mxCell id="qIoVRnadr-T4ANce19WU-77" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="qIoVRnadr-T4ANce19WU-73">
           <mxGeometry x="0.351" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -71,6 +76,11 @@
         </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-62" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="qIoVRnadr-T4ANce19WU-8" target="qIoVRnadr-T4ANce19WU-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoVRnadr-T4ANce19WU-79" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="qIoVRnadr-T4ANce19WU-62">
+          <mxGeometry x="-0.2" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-8" value="查看" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="295" width="80" height="50" as="geometry" />
