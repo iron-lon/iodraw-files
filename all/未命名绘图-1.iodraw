@@ -7,8 +7,11 @@
         <mxCell id="w_s_NoCIoT1F0YcgDawB-83" value="理发店" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w_s_NoCIoT1F0YcgDawB-84" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w_s_NoCIoT1F0YcgDawB-84" value="属于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="600" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w_s_NoCIoT1F0YcgDawB-85" value="理发店" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
