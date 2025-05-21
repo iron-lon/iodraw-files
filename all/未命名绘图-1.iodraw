@@ -91,7 +91,7 @@
         <mxCell id="qIoVRnadr-T4ANce19WU-14" value="理发师可预约时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="220" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qIoVRnadr-T4ANce19WU-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIoVRnadr-T4ANce19WU-15">
+        <mxCell id="qIoVRnadr-T4ANce19WU-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="qIoVRnadr-T4ANce19WU-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="160" as="targetPoint" />
           </mxGeometry>
@@ -131,11 +131,11 @@
         <mxCell id="qIoVRnadr-T4ANce19WU-20" value="预约状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="60" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qIoVRnadr-T4ANce19WU-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qIoVRnadr-T4ANce19WU-22" target="qIoVRnadr-T4ANce19WU-4">
+        <mxCell id="qIoVRnadr-T4ANce19WU-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="qIoVRnadr-T4ANce19WU-22" target="qIoVRnadr-T4ANce19WU-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-22" value="预约状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="90" width="70" height="30" as="geometry" />
+          <mxGeometry x="480" y="50" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-51" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="qIoVRnadr-T4ANce19WU-23">
           <mxGeometry relative="1" as="geometry">
