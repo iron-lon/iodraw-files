@@ -70,11 +70,11 @@
         <mxCell id="qIoVRnadr-T4ANce19WU-23" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="400" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qIoVRnadr-T4ANce19WU-24" value="电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="465" width="70" height="30" as="geometry" />
+        <mxCell id="qIoVRnadr-T4ANce19WU-24" value="电话" style="ellipse;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="680" y="510" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-25" value="密码" style="ellipse;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
-          <mxGeometry x="650" y="530" width="70" height="30" as="geometry" />
+          <mxGeometry x="640" y="550" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-26" value="性别" style="ellipse;whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
           <mxGeometry x="570" y="550" width="70" height="30" as="geometry" />
