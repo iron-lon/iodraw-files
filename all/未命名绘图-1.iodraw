@@ -23,16 +23,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w_s_NoCIoT1F0YcgDawB-128" value="客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w_s_NoCIoT1F0YcgDawB-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_s_NoCIoT1F0YcgDawB-129" target="w_s_NoCIoT1F0YcgDawB-130">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w_s_NoCIoT1F0YcgDawB-129" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w_s_NoCIoT1F0YcgDawB-130" value="个人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w_s_NoCIoT1F0YcgDawB-133" value="发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="640" width="120" height="60" as="geometry" />
