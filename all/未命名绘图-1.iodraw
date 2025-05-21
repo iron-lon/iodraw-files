@@ -32,10 +32,10 @@
           <mxGeometry x="350" y="415" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-10" value="理发师id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="60" width="70" height="30" as="geometry" />
+          <mxGeometry x="145" y="60" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-11" value="理发师姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="100" width="70" height="30" as="geometry" />
+          <mxGeometry x="60" y="70" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-12" value="理发师介绍" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="140" width="70" height="30" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="660" y="220" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-20" value="预约状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="60" width="70" height="30" as="geometry" />
+          <mxGeometry x="240" y="60" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-22" value="预约状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="90" width="70" height="30" as="geometry" />
