@@ -16,6 +16,9 @@
         <mxCell id="qIoVRnadr-T4ANce19WU-2" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="425" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qIoVRnadr-T4ANce19WU-65" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="qIoVRnadr-T4ANce19WU-3" target="qIoVRnadr-T4ANce19WU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-3" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="425" width="120" height="60" as="geometry" />
         </mxCell>
@@ -25,8 +28,11 @@
         <mxCell id="qIoVRnadr-T4ANce19WU-4" value="理发师预约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qIoVRnadr-T4ANce19WU-66" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="qIoVRnadr-T4ANce19WU-5" target="qIoVRnadr-T4ANce19WU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-5" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="295" width="80" height="50" as="geometry" />
+          <mxGeometry x="160" y="295" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-6" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="295" width="80" height="50" as="geometry" />
