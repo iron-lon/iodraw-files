@@ -69,11 +69,14 @@
         <mxCell id="qIoVRnadr-T4ANce19WU-15" value="理发师id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="50" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qIoVRnadr-T4ANce19WU-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qIoVRnadr-T4ANce19WU-16" target="qIoVRnadr-T4ANce19WU-4">
+        <mxCell id="qIoVRnadr-T4ANce19WU-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="qIoVRnadr-T4ANce19WU-16" target="qIoVRnadr-T4ANce19WU-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-16" value="理发师姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoVRnadr-T4ANce19WU-47" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="qIoVRnadr-T4ANce19WU-17" target="qIoVRnadr-T4ANce19WU-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-17" value="理发师介绍" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="120" width="70" height="30" as="geometry" />
