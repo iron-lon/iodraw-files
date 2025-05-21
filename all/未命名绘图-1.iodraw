@@ -23,7 +23,7 @@
           <mxGeometry x="630" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w_s_NoCIoT1F0YcgDawB-129" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w_s_NoCIoT1F0YcgDawB-130" value="个人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="710" width="120" height="60" as="geometry" />
