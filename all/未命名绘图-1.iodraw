@@ -18,7 +18,7 @@
         <mxCell id="qIoVRnadr-T4ANce19WU-63" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="qIoVRnadr-T4ANce19WU-2" target="qIoVRnadr-T4ANce19WU-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qIoVRnadr-T4ANce19WU-81" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="qIoVRnadr-T4ANce19WU-63">
+        <mxCell id="qIoVRnadr-T4ANce19WU-81" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="qIoVRnadr-T4ANce19WU-63">
           <mxGeometry x="-0.0514" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -243,8 +243,18 @@
         <mxCell id="qIoVRnadr-T4ANce19WU-70" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="qIoVRnadr-T4ANce19WU-34" target="qIoVRnadr-T4ANce19WU-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qIoVRnadr-T4ANce19WU-83" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="qIoVRnadr-T4ANce19WU-70">
+          <mxGeometry x="0.0146" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-71" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="qIoVRnadr-T4ANce19WU-34" target="qIoVRnadr-T4ANce19WU-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoVRnadr-T4ANce19WU-82" value="M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="qIoVRnadr-T4ANce19WU-71">
+          <mxGeometry x="-0.3413" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-34" value="查看" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="500" width="80" height="50" as="geometry" />
