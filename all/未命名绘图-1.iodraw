@@ -67,8 +67,8 @@
         <mxCell id="qIoVRnadr-T4ANce19WU-22" value="预约状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="90" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qIoVRnadr-T4ANce19WU-23" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="400" width="70" height="30" as="geometry" />
+        <mxCell id="qIoVRnadr-T4ANce19WU-23" value="姓名" style="ellipse;whiteSpace=wrap;html=1;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="690" y="395" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-24" value="电话" style="ellipse;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="680" y="510" width="70" height="30" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="90" y="540" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-30" value="昵称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="440" width="70" height="30" as="geometry" />
+          <mxGeometry x="700" y="460" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-31" value="轮播图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="570" width="120" height="60" as="geometry" />
