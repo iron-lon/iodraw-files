@@ -76,7 +76,7 @@
         <mxCell id="qIoVRnadr-T4ANce19WU-19" value="理发师预约时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="220" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qIoVRnadr-T4ANce19WU-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qIoVRnadr-T4ANce19WU-20" target="qIoVRnadr-T4ANce19WU-1">
+        <mxCell id="qIoVRnadr-T4ANce19WU-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="qIoVRnadr-T4ANce19WU-20" target="qIoVRnadr-T4ANce19WU-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-20" value="预约状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
