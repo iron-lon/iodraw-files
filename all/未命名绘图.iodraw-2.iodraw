@@ -1,0 +1,37 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="Yn5BzAdJdNEB11L0slBc">
+    <mxGraphModel dx="1042" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lSaxA_j-nZvOh3Qf7pvZ-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="28" width="56" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="lSaxA_j-nZvOh3Qf7pvZ-2" value="接收访问会员列表页面请求" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="126" y="20" width="222" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="lSaxA_j-nZvOh3Qf7pvZ-3" value="跳转到会员列表页面" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="398" y="20" width="174" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="lSaxA_j-nZvOh3Qf7pvZ-4" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="622" y="28" width="56" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="lSaxA_j-nZvOh3Qf7pvZ-5" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.48;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="lSaxA_j-nZvOh3Qf7pvZ-1" target="lSaxA_j-nZvOh3Qf7pvZ-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lSaxA_j-nZvOh3Qf7pvZ-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="lSaxA_j-nZvOh3Qf7pvZ-2" target="lSaxA_j-nZvOh3Qf7pvZ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lSaxA_j-nZvOh3Qf7pvZ-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.48;rounded=0;" edge="1" parent="1" source="lSaxA_j-nZvOh3Qf7pvZ-3" target="lSaxA_j-nZvOh3Qf7pvZ-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
