@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qIoVRnadr-T4ANce19WU-59" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="qIoVRnadr-T4ANce19WU-1" target="qIoVRnadr-T4ANce19WU-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-1" value="理发师信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -146,6 +149,9 @@
         </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-28" value="账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="480" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qIoVRnadr-T4ANce19WU-58" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="qIoVRnadr-T4ANce19WU-29" target="qIoVRnadr-T4ANce19WU-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qIoVRnadr-T4ANce19WU-29" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="540" width="70" height="30" as="geometry" />
