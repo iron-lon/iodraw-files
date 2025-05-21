@@ -19,6 +19,9 @@
         <mxCell id="qIoVRnadr-T4ANce19WU-5" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="260" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="qIoVRnadr-T4ANce19WU-6" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="80" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
