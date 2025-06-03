@@ -14,7 +14,7 @@
           <mxGeometry x="780" y="260" width="152" height="152" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-4" value="查看在职理发师列表" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="20" y="449" width="204" height="51" as="geometry" />
+          <mxGeometry x="240" y="440" width="204" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-5" value="查看可预约美发项目列表" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="983" y="449" width="236" height="51" as="geometry" />
