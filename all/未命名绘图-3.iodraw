@@ -23,6 +23,9 @@
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9R0IR4Spi1yJSiVMR7sE-4" target="9R0IR4Spi1yJSiVMR7sE-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9R0IR4Spi1yJSiVMR7sE-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9R0IR4Spi1yJSiVMR7sE-4" target="9R0IR4Spi1yJSiVMR7sE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-4" value="选择&#xa;操作类型?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1607" y="510" width="121" height="60" as="geometry" />
         </mxCell>
@@ -40,6 +43,9 @@
         </mxCell>
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.585;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9R0IR4Spi1yJSiVMR7sE-4" target="9R0IR4Spi1yJSiVMR7sE-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9R0IR4Spi1yJSiVMR7sE-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="558" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
