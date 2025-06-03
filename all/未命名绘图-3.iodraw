@@ -90,6 +90,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="j2xwyp9Q2AEoJkBwXhOV-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="j2xwyp9Q2AEoJkBwXhOV-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1580" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-21" value="是否需要&#xa;编辑&#xa;项目列表信息?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1374.5" y="370" width="108" height="92" as="geometry" />
         </mxCell>
