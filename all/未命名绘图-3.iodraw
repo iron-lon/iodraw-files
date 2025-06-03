@@ -17,7 +17,7 @@
           <mxGeometry x="490" y="290" width="104" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-6" value="是否需要&#xa;更新文章?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="241" y="656" width="184" height="184" as="geometry" />
+          <mxGeometry x="472.5" y="340" width="139" height="74" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-7" value="选择文章进行编辑" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="44" y="1026" width="188" height="51" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="700" y="289.5" width="142" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-15" value="是否需要&#xa;添加新管理员?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="843" y="640" width="157" height="90" as="geometry" />
+          <mxGeometry x="710" y="360" width="157" height="90" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-16" value="填写新管理员信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="638" y="1026" width="188" height="51" as="geometry" />
