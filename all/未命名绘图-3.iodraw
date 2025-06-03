@@ -11,16 +11,16 @@
           <mxGeometry x="991" y="121" width="220" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-49" value="查看在职理发师列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="330" width="204" height="51" as="geometry" />
+          <mxGeometry x="498" y="310" width="204" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-50" value="是否需要添加理发师?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="270" y="420" width="200" height="200" as="geometry" />
+          <mxGeometry x="360" y="384" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-51" value="添加理发师信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="220" y="715" width="172" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-52" value="是否需要修改/删除理发师?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="470" y="660" width="240" height="240" as="geometry" />
+          <mxGeometry x="480" y="538" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-53" value="修改/删除理发师信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="584" y="1184" width="212" height="51" as="geometry" />
