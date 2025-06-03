@@ -47,10 +47,10 @@
           <mxGeometry x="360" y="80" width="216" height="216" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-15" value="进入会员信息修改页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="518" y="519" width="220" height="51" as="geometry" />
+          <mxGeometry x="502" y="370" width="220" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-16" value="修改会员信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="582" y="1010" width="156" height="51" as="geometry" />
+          <mxGeometry x="534" y="460" width="156" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-17" value="保存修改" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="598" y="1090" width="124" height="51" as="geometry" />
