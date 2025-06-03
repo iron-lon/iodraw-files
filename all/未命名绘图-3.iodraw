@@ -85,8 +85,8 @@
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-21" value="是否需要&#xa;编辑&#xa;项目列表信息?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1247" y="400" width="108" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="j2xwyp9Q2AEoJkBwXhOV-24" value="编辑理发师信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1061" y="530" width="95" height="31" as="geometry" />
+        <mxCell id="j2xwyp9Q2AEoJkBwXhOV-24" value="编辑项目列表信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1253.5" y="520" width="95" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
