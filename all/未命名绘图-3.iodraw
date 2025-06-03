@@ -8,10 +8,10 @@
           <mxGeometry x="270" width="124" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-2" value="是否&#xa;已预约项目?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="169" y="60" width="168" height="168" as="geometry" />
+          <mxGeometry x="169" y="60" width="161" height="140" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-3" value="查看已预约项目" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="53" y="270" width="172" height="51" as="geometry" />
+          <mxGeometry x="59" y="250" width="172" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-4" value="服务未完成，继续等待" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="320" y="940" width="220" height="51" as="geometry" />
@@ -62,9 +62,7 @@
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-19" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=21;" edge="1" parent="1" source="OrTeo3WWQCcowwRvtheK-2" target="OrTeo3WWQCcowwRvtheK-3">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="170" y="240" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-20" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.46;entryY=0;rounded=0;fontSize=21;" edge="1" parent="1" source="OrTeo3WWQCcowwRvtheK-2" target="OrTeo3WWQCcowwRvtheK-4">
