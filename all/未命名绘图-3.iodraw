@@ -92,6 +92,10 @@
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9R0IR4Spi1yJSiVMR7sE-21" target="9R0IR4Spi1yJSiVMR7sE-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1380" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1440" y="765" />
+              <mxPoint x="1440" y="468" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-21" value="保存修改后的会员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
