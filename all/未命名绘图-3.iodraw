@@ -34,9 +34,9 @@
           <mxGeometry x="1051" y="380" width="108" height="92" as="geometry" />
         </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-11" value="添加理发师信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1051" y="530" width="95" height="31" as="geometry" />
+          <mxGeometry x="1051" y="554" width="95" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="j2xwyp9Q2AEoJkBwXhOV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.594;entryY=0.129;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j2xwyp9Q2AEoJkBwXhOV-10" target="j2xwyp9Q2AEoJkBwXhOV-11">
+        <mxCell id="j2xwyp9Q2AEoJkBwXhOV-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.594;entryY=0.129;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j2xwyp9Q2AEoJkBwXhOV-10" target="j2xwyp9Q2AEoJkBwXhOV-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
