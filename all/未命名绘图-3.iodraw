@@ -23,7 +23,7 @@
           <mxGeometry x="480" y="538" width="130" height="142" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-53" value="修改/删除理发师信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="584" y="1184" width="212" height="51" as="geometry" />
+          <mxGeometry x="570" y="700" width="212" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-54" value="查看可预约美发项目列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="983" y="449" width="236" height="51" as="geometry" />
@@ -35,10 +35,10 @@
           <mxGeometry x="672" y="479" width="188" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-57" value="是否需要&#xa;修改/删除&#xa;美发项目?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1337" y="841" width="268" height="268" as="geometry" />
+          <mxGeometry x="1289" y="681" width="143" height="109" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-58" value="修改/删除美发项目信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1442" y="1184" width="228" height="51" as="geometry" />
+          <mxGeometry x="1304" y="870" width="228" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-59" value="查看项目分类列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1304" y="449" width="188" height="51" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="1055" y="690" width="156" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-62" value="是否需要删除项目分类?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1675" y="867" width="216" height="216" as="geometry" />
+          <mxGeometry x="1530" y="607.5" width="216" height="216" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-63" value="删除项目分类" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1777" y="1184" width="156" height="51" as="geometry" />
