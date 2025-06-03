@@ -93,7 +93,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-28" value="查看会员当前信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1759.5" y="660" width="111" height="30" as="geometry" />
+          <mxGeometry x="1744.5" y="641" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9R0IR4Spi1yJSiVMR7sE-30" target="9R0IR4Spi1yJSiVMR7sE-31">
           <mxGeometry relative="1" as="geometry" />
