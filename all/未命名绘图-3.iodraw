@@ -75,7 +75,10 @@
           <mxGeometry x="1611.5" y="660" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-20" value="修改会员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="1280" width="156" height="51" as="geometry" />
+          <mxGeometry x="1611.5" y="710" width="98.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9R0IR4Spi1yJSiVMR7sE-21" value="保存修改后的会员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1259" y="1380" width="220" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
