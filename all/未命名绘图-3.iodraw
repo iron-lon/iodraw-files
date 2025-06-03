@@ -43,7 +43,10 @@
         </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j2xwyp9Q2AEoJkBwXhOV-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1020" y="200" as="targetPoint" />
+            <mxPoint x="1190" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1021" y="426" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-10" value="是否需要&#xa;编辑&#xa;理发师信息?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
