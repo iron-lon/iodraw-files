@@ -35,10 +35,10 @@
           <mxGeometry x="101" y="940" width="204" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-11" value="提交评价" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="165" y="1318" width="124" height="51" as="geometry" />
+          <mxGeometry x="141" y="1020" width="124" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-12" value="评价出现在预约服务信息页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="101" y="1418" width="252" height="68" as="geometry" />
+          <mxGeometry x="77" y="1101" width="252" height="68" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-13" value="商家收到反馈并作出回应" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="109" y="1537" width="236" height="51" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="320" y="270" />
-              <mxPoint x="430" y="440" />
+              <mxPoint x="370" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
