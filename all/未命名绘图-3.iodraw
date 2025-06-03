@@ -43,7 +43,7 @@
         <mxCell id="OrTeo3WWQCcowwRvtheK-13" value="商家收到反馈并作出回应" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="85" y="1190" width="236" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="OrTeo3WWQCcowwRvtheK-14" value="是否需要修改会员信息?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="OrTeo3WWQCcowwRvtheK-14" value="是否需要&#xa;修改会员信息?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="350" y="47" width="190" height="194" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-15" value="进入会员信息修改页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
