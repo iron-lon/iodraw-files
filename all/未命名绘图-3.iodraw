@@ -20,7 +20,7 @@
           <mxGeometry x="220" y="715" width="172" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-52" value="是否需要修改/删除理发师?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="350" y="841" width="240" height="240" as="geometry" />
+          <mxGeometry x="470" y="660" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-53" value="修改/删除理发师信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="584" y="1184" width="212" height="51" as="geometry" />
@@ -82,9 +82,7 @@
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-69" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.84;entryX=0.17;entryY=0;rounded=0;" edge="1" parent="1" source="ynCvroT2MkfAQHhm8KP3-50" target="ynCvroT2MkfAQHhm8KP3-52">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="400" y="780" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-70" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.04;entryY=0;rounded=0;" edge="1" parent="1" source="ynCvroT2MkfAQHhm8KP3-52" target="ynCvroT2MkfAQHhm8KP3-53">
