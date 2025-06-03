@@ -23,6 +23,11 @@
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9R0IR4Spi1yJSiVMR7sE-4" target="9R0IR4Spi1yJSiVMR7sE-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9R0IR4Spi1yJSiVMR7sE-14" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9R0IR4Spi1yJSiVMR7sE-11">
+          <mxGeometry x="0.296" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9R0IR4Spi1yJSiVMR7sE-4" target="9R0IR4Spi1yJSiVMR7sE-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -44,8 +49,8 @@
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.585;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9R0IR4Spi1yJSiVMR7sE-4" target="9R0IR4Spi1yJSiVMR7sE-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9R0IR4Spi1yJSiVMR7sE-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="558" width="40" height="30" as="geometry" />
+        <mxCell id="9R0IR4Spi1yJSiVMR7sE-13" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;增加会员信息&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1535" y="558" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
