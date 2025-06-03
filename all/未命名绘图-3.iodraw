@@ -55,8 +55,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j2xwyp9Q2AEoJkBwXhOV-16" value="是否需要&#xa;修改/删除理发师?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="500" width="133" height="105" as="geometry" />
+        <mxCell id="j2xwyp9Q2AEoJkBwXhOV-17" value="查看可预约美发项目列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1183" y="519" width="236" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
