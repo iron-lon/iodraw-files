@@ -35,10 +35,10 @@
           <mxGeometry x="390" y="600" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-12" value="保存并发布新文章" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="373" y="800" width="164" height="40" as="geometry" />
+          <mxGeometry x="373" y="680" width="164" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-13" value="返回系统设置页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="517" y="970" width="188" height="51" as="geometry" />
+          <mxGeometry x="490" y="860" width="188" height="51" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-14" value="查看当前管理员列表" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="700" y="289.5" width="142" height="30.5" as="geometry" />
