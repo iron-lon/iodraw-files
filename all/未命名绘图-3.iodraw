@@ -32,10 +32,10 @@
           <mxGeometry x="190" y="570" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-10" value="是否需要&#xa;更新预约状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="70" y="680" width="150.5" height="110" as="geometry" />
+          <mxGeometry x="58" y="610" width="150.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-11" value="更新预约状态（如待确认、已确认、已完成、已取消等）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="170" y="800" width="230" height="50" as="geometry" />
+          <mxGeometry x="184" y="710" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-12" value="预约信息处理完毕，返回预约信息管理页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="85" y="870" width="400" height="30" as="geometry" />
