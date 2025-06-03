@@ -35,7 +35,7 @@
           <mxGeometry x="380" y="741" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-12" value="保存并发布新文章" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="306" y="1380" width="188" height="51" as="geometry" />
+          <mxGeometry x="356" y="820" width="188" height="51" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-13" value="返回系统设置页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="557" y="1490" width="188" height="51" as="geometry" />
@@ -116,9 +116,7 @@
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-32" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.71;exitY=1;entryX=0.17;entryY=0;rounded=0;fontSize=15;" edge="1" parent="1" source="uS3Y1a3vyjxF_AoGe7lT-10" target="uS3Y1a3vyjxF_AoGe7lT-13">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="560" y="1200" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.32;rounded=0;fontSize=15;" edge="1" parent="1" source="uS3Y1a3vyjxF_AoGe7lT-9" target="uS3Y1a3vyjxF_AoGe7lT-13">
