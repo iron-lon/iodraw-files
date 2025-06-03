@@ -43,7 +43,7 @@
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-14" value="查看当前管理员列表" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="700" y="289.5" width="142" height="30.5" as="geometry" />
         </mxCell>
-        <mxCell id="uS3Y1a3vyjxF_AoGe7lT-15" value="是否需要添加新管理员?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="uS3Y1a3vyjxF_AoGe7lT-15" value="是否需要&#xa;添加新管理员?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="843" y="640" width="216" height="216" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-16" value="填写新管理员信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
