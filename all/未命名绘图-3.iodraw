@@ -32,7 +32,7 @@
           <mxGeometry x="993" y="550" width="207" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-56" value="添加美发项目信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="630" y="867" width="188" height="51" as="geometry" />
+          <mxGeometry x="672" y="479" width="188" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-57" value="是否需要&#xa;修改/删除&#xa;美发项目?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1337" y="841" width="268" height="268" as="geometry" />
@@ -44,10 +44,10 @@
           <mxGeometry x="1304" y="449" width="188" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-60" value="是否需要&#xa;添加项目分类?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1289" y="550" width="216" height="216" as="geometry" />
+          <mxGeometry x="1289" y="550" width="181" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-61" value="添加项目分类" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1119" y="950" width="156" height="51" as="geometry" />
+          <mxGeometry x="1055" y="690" width="156" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-62" value="是否需要删除项目分类?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1675" y="867" width="216" height="216" as="geometry" />
