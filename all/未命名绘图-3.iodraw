@@ -24,6 +24,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="j2xwyp9Q2AEoJkBwXhOV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j2xwyp9Q2AEoJkBwXhOV-4" target="j2xwyp9Q2AEoJkBwXhOV-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-4" value="选择&#xa;管理类型?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1231" y="230" width="140" height="80" as="geometry" />
         </mxCell>
@@ -56,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-17" value="查看可预约美发项目列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1183" y="519" width="236" height="51" as="geometry" />
+          <mxGeometry x="1227.5" y="349" width="147" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
