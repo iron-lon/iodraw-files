@@ -57,9 +57,6 @@
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-8" value="搜索并选择会员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1750" y="600" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9R0IR4Spi1yJSiVMR7sE-9" value="搜索并选择会员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2309" y="620" width="172" height="51" as="geometry" />
-        </mxCell>
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.585;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9R0IR4Spi1yJSiVMR7sE-4" target="9R0IR4Spi1yJSiVMR7sE-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -140,7 +137,7 @@
           <mxGeometry x="1820" y="690" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-44" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1816.5" y="820" width="53.5" height="20" as="geometry" />
+          <mxGeometry x="1855.5" y="820" width="53.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
