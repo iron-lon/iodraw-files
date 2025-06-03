@@ -32,7 +32,7 @@
           <mxGeometry x="450" y="450" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-11" value="填写新文章信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="314" y="1246" width="172" height="51" as="geometry" />
+          <mxGeometry x="300.5" y="1260" width="172" height="51" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-12" value="保存并发布新文章" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="306" y="1380" width="188" height="51" as="geometry" />
@@ -107,7 +107,7 @@
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-30" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=15;" edge="1" parent="1" source="uS3Y1a3vyjxF_AoGe7lT-10" target="uS3Y1a3vyjxF_AoGe7lT-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="1209" />
+              <mxPoint x="387" y="1190" />
             </Array>
           </mxGeometry>
         </mxCell>
