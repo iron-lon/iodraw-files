@@ -25,7 +25,7 @@
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-7" value="检查预约详情（用户信息、预约时间、理发师/项目等）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="188.5" y="460" width="260" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="b7OqHQAoDWbPlVsHWRCY-8" value="是否需要修改预约信息?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="b7OqHQAoDWbPlVsHWRCY-8" value="是否需要&#xa;修改预约信息?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="69.5" y="560" width="216" height="216" as="geometry" />
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-9" value="修改预约信息（如时间、理发师、项目等）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
@@ -78,6 +78,7 @@
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.99;entryY=0;rounded=0;fontSize=15;" edge="1" parent="1" source="b7OqHQAoDWbPlVsHWRCY-7" target="b7OqHQAoDWbPlVsHWRCY-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="319" y="730" />
               <mxPoint x="257" y="1000" />
             </Array>
           </mxGeometry>
