@@ -107,7 +107,7 @@
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-31" value="保存修改后的会员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1744.5" y="870" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9R0IR4Spi1yJSiVMR7sE-32" value="选择&#xa;操作类型?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="9R0IR4Spi1yJSiVMR7sE-32" value="是否删除&#xa;会员信息" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1820" y="690" width="121" height="60" as="geometry" />
         </mxCell>
       </root>
