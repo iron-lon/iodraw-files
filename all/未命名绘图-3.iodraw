@@ -23,7 +23,7 @@
           <mxGeometry x="20" y="570" width="124" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-7" value="预约项目正常进行" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="194" y="724" width="188" height="51" as="geometry" />
+          <mxGeometry x="157" y="570" width="188" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-8" value="到店接受服务" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="210" y="825" width="156" height="51" as="geometry" />
@@ -90,7 +90,7 @@
         <mxCell id="OrTeo3WWQCcowwRvtheK-23" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.92;entryX=0.5;entryY=0;rounded=0;fontSize=21;" edge="1" parent="1" source="OrTeo3WWQCcowwRvtheK-5" target="OrTeo3WWQCcowwRvtheK-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="288" y="687" />
+              <mxPoint x="230" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
