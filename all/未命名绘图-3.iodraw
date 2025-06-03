@@ -116,7 +116,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9R0IR4Spi1yJSiVMR7sE-32" target="9R0IR4Spi1yJSiVMR7sE-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1970" y="720" />
+              <mxPoint x="1970" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9R0IR4Spi1yJSiVMR7sE-39" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9R0IR4Spi1yJSiVMR7sE-38">
+          <mxGeometry x="-0.2882" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-32" value="是否删除&#xa;会员信息" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1820" y="690" width="121" height="60" as="geometry" />
