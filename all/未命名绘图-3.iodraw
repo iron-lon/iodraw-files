@@ -47,7 +47,7 @@
           <mxGeometry x="692.5" y="332" width="137.5" height="88" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-16" value="填写新管理员信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="630" y="510" width="188" height="51" as="geometry" />
+          <mxGeometry x="630" y="440" width="188" height="51" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-17" value="保存新管理员信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="630" y="580" width="188" height="51" as="geometry" />
