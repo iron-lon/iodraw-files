@@ -17,10 +17,10 @@
           <mxGeometry x="399" y="1217" width="220" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-5" value="是否需要取消预约?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="41" y="465" width="184" height="184" as="geometry" />
+          <mxGeometry x="47" y="350" width="184" height="184" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-6" value="取消预约" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="20" y="724" width="124" height="51" as="geometry" />
+          <mxGeometry x="20" y="570" width="124" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-7" value="预约项目正常进行" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="194" y="724" width="188" height="51" as="geometry" />
@@ -83,7 +83,7 @@
         <mxCell id="OrTeo3WWQCcowwRvtheK-22" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=21;" edge="1" parent="1" source="OrTeo3WWQCcowwRvtheK-5" target="OrTeo3WWQCcowwRvtheK-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="82" y="687" />
+              <mxPoint x="100" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
