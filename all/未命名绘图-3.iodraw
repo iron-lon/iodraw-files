@@ -144,9 +144,7 @@
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-35" value="管理员管理" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.5;entryY=0;rounded=0;fontSize=15;" edge="1" parent="1" source="uS3Y1a3vyjxF_AoGe7lT-4" target="uS3Y1a3vyjxF_AoGe7lT-14">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="951" y="501" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=15;" edge="1" parent="1" source="uS3Y1a3vyjxF_AoGe7lT-14" target="uS3Y1a3vyjxF_AoGe7lT-15">
