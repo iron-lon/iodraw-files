@@ -39,6 +39,9 @@
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-4" value="选择&#xa;操作类型?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1607" y="510" width="121" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9R0IR4Spi1yJSiVMR7sE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9R0IR4Spi1yJSiVMR7sE-6" target="9R0IR4Spi1yJSiVMR7sE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-6" value="填写新会员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1470" y="600" width="109" height="30" as="geometry" />
         </mxCell>
@@ -58,7 +61,7 @@
           <mxGeometry x="1535" y="558" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-16" value="保存新会员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="871" y="920" width="172" height="51" as="geometry" />
+          <mxGeometry x="1470" y="660" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
