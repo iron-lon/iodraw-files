@@ -17,7 +17,7 @@
           <mxGeometry x="22" y="558" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-51" value="添加理发师信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="105" y="950" width="172" height="51" as="geometry" />
+          <mxGeometry x="90" y="930" width="172" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-52" value="是否需要修改/删除理发师?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="327" y="855" width="240" height="240" as="geometry" />
@@ -109,7 +109,6 @@
         <mxCell id="ynCvroT2MkfAQHhm8KP3-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=-0.01;entryX=0;entryY=0.63;rounded=0;" edge="1" parent="1" source="ynCvroT2MkfAQHhm8KP3-51" target="ynCvroT2MkfAQHhm8KP3-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="304" y="803" />
               <mxPoint x="670" y="470" />
             </Array>
           </mxGeometry>
