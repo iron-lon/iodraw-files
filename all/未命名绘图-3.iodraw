@@ -82,7 +82,7 @@
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-17" value="查看可预约美发项目列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1355" y="310" width="147" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="j2xwyp9Q2AEoJkBwXhOV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="j2xwyp9Q2AEoJkBwXhOV-21" target="j2xwyp9Q2AEoJkBwXhOV-24">
+        <mxCell id="j2xwyp9Q2AEoJkBwXhOV-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="j2xwyp9Q2AEoJkBwXhOV-21" target="j2xwyp9Q2AEoJkBwXhOV-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-26" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j2xwyp9Q2AEoJkBwXhOV-25">
@@ -94,7 +94,7 @@
           <mxGeometry x="1374.5" y="370" width="108" height="92" as="geometry" />
         </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-24" value="编辑项目列表信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1248.5" y="520" width="106.5" height="31" as="geometry" />
+          <mxGeometry x="1371" y="500" width="106.5" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
