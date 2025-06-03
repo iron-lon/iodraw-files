@@ -50,7 +50,7 @@
           <mxGeometry x="630" y="510" width="188" height="51" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-17" value="保存新管理员信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="630" y="610" width="188" height="51" as="geometry" />
+          <mxGeometry x="630" y="580" width="188" height="51" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-18" value="使用默认管理员账号授权新管理员登录权限" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="624" y="790" width="200" height="60" as="geometry" />
