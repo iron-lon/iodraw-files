@@ -19,6 +19,9 @@
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-4" value="选择&#xa;管理类型?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1231" y="230" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="j2xwyp9Q2AEoJkBwXhOV-7" value="查看在职理发师列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="860" y="310" width="204" height="51" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
