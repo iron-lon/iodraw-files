@@ -28,7 +28,7 @@
         <mxCell id="OrTeo3WWQCcowwRvtheK-8" value="到店接受服务" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="157" y="483" width="156" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="OrTeo3WWQCcowwRvtheK-9" value="是否已完成服务?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="OrTeo3WWQCcowwRvtheK-9" value="是否&#xa;已完成&#xa;服务?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="151" y="560" width="168" height="168" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-10" value="对预约服务进行评价" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
