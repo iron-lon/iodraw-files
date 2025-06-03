@@ -33,7 +33,7 @@
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-7" value="查看在职理发师列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1040" y="320" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="j2xwyp9Q2AEoJkBwXhOV-10" value="是否需要&#xa;添加理发师?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="j2xwyp9Q2AEoJkBwXhOV-10" value="是否需要&#xa;编辑理发师信息?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1051" y="380" width="108" height="92" as="geometry" />
         </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j2xwyp9Q2AEoJkBwXhOV-11" target="j2xwyp9Q2AEoJkBwXhOV-2">
