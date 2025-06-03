@@ -27,6 +27,9 @@
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-4" value="选择&#xa;管理类型?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1231" y="230" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="j2xwyp9Q2AEoJkBwXhOV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j2xwyp9Q2AEoJkBwXhOV-7" target="j2xwyp9Q2AEoJkBwXhOV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-7" value="查看在职理发师列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1040" y="320" width="130" height="40" as="geometry" />
         </mxCell>
@@ -38,6 +41,11 @@
         </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.594;entryY=0.129;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j2xwyp9Q2AEoJkBwXhOV-10" target="j2xwyp9Q2AEoJkBwXhOV-11">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j2xwyp9Q2AEoJkBwXhOV-13" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j2xwyp9Q2AEoJkBwXhOV-12">
+          <mxGeometry x="-0.2215" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
