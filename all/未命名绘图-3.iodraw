@@ -134,8 +134,8 @@
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-32" value="是否删除&#xa;会员信息" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1820" y="690" width="121" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9R0IR4Spi1yJSiVMR7sE-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="9R0IR4Spi1yJSiVMR7sE-41" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1821" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
