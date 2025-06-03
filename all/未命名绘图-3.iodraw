@@ -78,7 +78,7 @@
           <mxGeometry x="1611.5" y="660" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-20" value="修改会员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1607" y="720" width="108.5" height="30" as="geometry" />
+          <mxGeometry x="1607" y="730" width="143" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-21" value="保存修改后的会员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1597.5" y="770" width="140" height="30" as="geometry" />
