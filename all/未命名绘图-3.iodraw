@@ -62,7 +62,7 @@
           <mxGeometry x="780" y="740" width="207" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-21" value="修改/删除管理员信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="908" y="1380" width="212" height="51" as="geometry" />
+          <mxGeometry x="768" y="870" width="172" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=15;" edge="1" parent="1" source="uS3Y1a3vyjxF_AoGe7lT-2" target="uS3Y1a3vyjxF_AoGe7lT-3">
           <mxGeometry relative="1" as="geometry">
@@ -126,9 +126,7 @@
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.13;rounded=0;fontSize=15;" edge="1" parent="1" source="uS3Y1a3vyjxF_AoGe7lT-12" target="uS3Y1a3vyjxF_AoGe7lT-13">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="400" y="1465" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-35" value="管理员管理" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.5;entryY=0;rounded=0;fontSize=15;" edge="1" parent="1" source="uS3Y1a3vyjxF_AoGe7lT-4" target="uS3Y1a3vyjxF_AoGe7lT-14">
