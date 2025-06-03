@@ -13,7 +13,7 @@
         <mxCell id="ynCvroT2MkfAQHhm8KP3-49" value="查看在职理发师列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="498" y="310" width="204" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="ynCvroT2MkfAQHhm8KP3-50" value="是否需要添加理发师?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ynCvroT2MkfAQHhm8KP3-50" value="是否需要&#xa;添加理发师?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="360" y="384" width="150" height="146" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-51" value="添加理发师信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
