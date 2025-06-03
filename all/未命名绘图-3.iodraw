@@ -10,9 +10,6 @@
         <mxCell id="ynCvroT2MkfAQHhm8KP3-47" value="返回理发信息管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="991" y="121" width="220" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="ynCvroT2MkfAQHhm8KP3-48" value="选择管理类型?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="805" y="300" width="152" height="152" as="geometry" />
-        </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-49" value="查看在职理发师列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="449" width="204" height="51" as="geometry" />
         </mxCell>
@@ -65,9 +62,7 @@
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ynCvroT2MkfAQHhm8KP3-47" target="ynCvroT2MkfAQHhm8KP3-48">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="837" y="197" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-66" value="理发师信息管理" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ynCvroT2MkfAQHhm8KP3-48" target="ynCvroT2MkfAQHhm8KP3-49">
@@ -115,14 +110,13 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="304" y="803" />
-              <mxPoint x="304" y="197" />
+              <mxPoint x="670" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ynCvroT2MkfAQHhm8KP3-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0;entryX=0.15;entryY=0.99;rounded=0;" edge="1" parent="1" source="ynCvroT2MkfAQHhm8KP3-53" target="ynCvroT2MkfAQHhm8KP3-47">
+        <mxCell id="ynCvroT2MkfAQHhm8KP3-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0;entryX=0.15;entryY=0.99;rounded=0;" edge="1" parent="1" source="ynCvroT2MkfAQHhm8KP3-48" target="ynCvroT2MkfAQHhm8KP3-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="948" y="1147" />
               <mxPoint x="948" y="197" />
             </Array>
           </mxGeometry>
@@ -240,6 +234,18 @@
               <mxPoint x="1927" y="197" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ynCvroT2MkfAQHhm8KP3-90" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0;entryX=0.15;entryY=0.99;rounded=0;" edge="1" parent="1" source="ynCvroT2MkfAQHhm8KP3-53" target="ynCvroT2MkfAQHhm8KP3-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="948" y="1147" />
+            </Array>
+            <mxPoint x="794" y="1184" as="sourcePoint" />
+            <mxPoint x="1022" y="172" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ynCvroT2MkfAQHhm8KP3-48" value="选择管理类型?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="831" y="200" width="152" height="152" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
