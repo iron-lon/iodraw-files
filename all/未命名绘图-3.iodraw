@@ -53,13 +53,13 @@
           <mxGeometry x="630" y="610" width="188" height="51" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-18" value="使用默认管理员账号授权新管理员登录权限" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="590" y="870" width="252" height="68" as="geometry" />
+          <mxGeometry x="624" y="790" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-19" value="是否需要&#xa;修改/删除管理员?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="830" y="440" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-20" value="选择管理员进行编辑/删除" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="783" y="820" width="207" height="30" as="geometry" />
+          <mxGeometry x="780" y="740" width="207" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-21" value="修改/删除管理员信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="908" y="1380" width="212" height="51" as="geometry" />
@@ -118,7 +118,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="529" y="1209" />
-              <mxPoint x="529" y="1465" />
             </Array>
           </mxGeometry>
         </mxCell>
