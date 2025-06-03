@@ -7,6 +7,9 @@
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-1" value="管理员登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1623" y="400" width="104" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="9R0IR4Spi1yJSiVMR7sE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9R0IR4Spi1yJSiVMR7sE-2" target="9R0IR4Spi1yJSiVMR7sE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-2" value="返回会员信息管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1590" y="460" width="155" height="30" as="geometry" />
         </mxCell>
@@ -18,7 +21,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-4" value="选择&#xa;操作类型?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1614.5" y="510" width="121" height="60" as="geometry" />
+          <mxGeometry x="1607" y="510" width="121" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
