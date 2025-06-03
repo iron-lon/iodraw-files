@@ -11,7 +11,7 @@
           <mxGeometry x="991" y="121" width="220" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-48" value="选择管理类型?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="761" y="222" width="152" height="152" as="geometry" />
+          <mxGeometry x="805" y="300" width="152" height="152" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-49" value="查看在职理发师列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="449" width="204" height="51" as="geometry" />
