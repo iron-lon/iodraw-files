@@ -35,7 +35,7 @@
           <mxGeometry x="69.5" y="780" width="150.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-11" value="更新预约状态（如待确认、已确认、已完成、已取消等）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="133" y="1726" width="252" height="86" as="geometry" />
+          <mxGeometry x="162" y="1000" width="252" height="86" as="geometry" />
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-12" value="预约信息处理完毕，返回预约信息管理页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="133" y="1862" width="252" height="68" as="geometry" />
@@ -77,9 +77,7 @@
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.99;entryY=0;rounded=0;fontSize=15;" edge="1" parent="1" source="b7OqHQAoDWbPlVsHWRCY-7" target="b7OqHQAoDWbPlVsHWRCY-8">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="280" y="560" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-21" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=15;" edge="1" parent="1" source="b7OqHQAoDWbPlVsHWRCY-8" target="b7OqHQAoDWbPlVsHWRCY-9">
@@ -99,9 +97,7 @@
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-24" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=15;" edge="1" parent="1" source="b7OqHQAoDWbPlVsHWRCY-10" target="b7OqHQAoDWbPlVsHWRCY-11">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="259" y="1688" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-25" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="1" source="b7OqHQAoDWbPlVsHWRCY-10" target="b7OqHQAoDWbPlVsHWRCY-12">
