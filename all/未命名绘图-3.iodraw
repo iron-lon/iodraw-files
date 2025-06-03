@@ -49,6 +49,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="j2xwyp9Q2AEoJkBwXhOV-23" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j2xwyp9Q2AEoJkBwXhOV-20">
+          <mxGeometry x="-0.9034" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-10" value="是否需要&#xa;编辑&#xa;理发师信息?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1051" y="380" width="108" height="92" as="geometry" />
         </mxCell>
@@ -70,6 +75,9 @@
           <mxGeometry x="-0.2215" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="j2xwyp9Q2AEoJkBwXhOV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j2xwyp9Q2AEoJkBwXhOV-17" target="j2xwyp9Q2AEoJkBwXhOV-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-17" value="查看可预约美发项目列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1227.5" y="349" width="147" height="31" as="geometry" />
