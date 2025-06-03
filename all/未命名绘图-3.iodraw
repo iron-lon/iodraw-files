@@ -10,8 +10,8 @@
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-3" value="进入系统设置页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="582.25" y="150" width="134.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uS3Y1a3vyjxF_AoGe7lT-4" value="选择管理功能?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="599" y="312" width="152" height="152" as="geometry" />
+        <mxCell id="uS3Y1a3vyjxF_AoGe7lT-4" value="选择&#xa;管理功能?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="599" y="312" width="111" height="58" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-5" value="查看文章列表" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="256" y="539" width="156" height="51" as="geometry" />
