@@ -39,7 +39,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-7" value="查看在职理发师列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="320" width="130" height="40" as="geometry" />
+          <mxGeometry x="1051" y="310" width="129" height="29" as="geometry" />
         </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j2xwyp9Q2AEoJkBwXhOV-10">
           <mxGeometry relative="1" as="geometry">
