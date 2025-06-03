@@ -7,7 +7,7 @@
         <mxCell id="OrTeo3WWQCcowwRvtheK-1" value="用户登录" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="270" width="124" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="OrTeo3WWQCcowwRvtheK-2" value="是否已预约项目?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="OrTeo3WWQCcowwRvtheK-2" value="是否&#xa;已预约项目?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="169" y="60" width="168" height="168" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-3" value="查看已预约项目" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
@@ -44,7 +44,7 @@
           <mxGeometry x="85" y="1190" width="236" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-14" value="是否需要&#xa;修改会员信息?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="350" y="47" width="190" height="194" as="geometry" />
+          <mxGeometry x="350" y="47" width="160" height="163" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-15" value="进入会员信息修改页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="502" y="370" width="220" height="51" as="geometry" />
