@@ -32,10 +32,10 @@
           <mxGeometry x="151" y="560" width="168" height="168" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-10" value="对预约服务进行评价" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="101" y="940" width="204" height="51" as="geometry" />
+          <mxGeometry x="20" y="740" width="204" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-11" value="提交评价" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="141" y="1020" width="124" height="51" as="geometry" />
+          <mxGeometry x="60" y="820" width="124" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-12" value="评价出现在预约服务信息页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="77" y="1101" width="252" height="68" as="geometry" />
@@ -100,9 +100,7 @@
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-26" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=21;" edge="1" parent="1" source="OrTeo3WWQCcowwRvtheK-9" target="OrTeo3WWQCcowwRvtheK-10">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="220" y="930" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-27" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0.31;entryY=0;rounded=0;fontSize=21;" edge="1" parent="1" source="OrTeo3WWQCcowwRvtheK-9" target="OrTeo3WWQCcowwRvtheK-4">
