@@ -26,7 +26,7 @@
           <mxGeometry x="188.5" y="460" width="260" height="68" as="geometry" />
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-8" value="是否需要&#xa;修改预约信息?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="69.5" y="560" width="216" height="216" as="geometry" />
+          <mxGeometry x="80" y="540" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-9" value="修改预约信息（如时间、理发师、项目等）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="133" y="1316" width="252" height="68" as="geometry" />
