@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ynCvroT2MkfAQHhm8KP3-137" value="管理员登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1606" y="390" width="140" height="51" as="geometry" />
+          <mxGeometry x="1623" y="400" width="104" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-138" value="返回会员信息管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1565" y="460" width="220" height="51" as="geometry" />
@@ -15,6 +15,11 @@
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-140" value="填写新会员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="810" y="819" width="172" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="ynCvroT2MkfAQHhm8KP3-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ynCvroT2MkfAQHhm8KP3-141">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-141" value="保存新会员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="871" y="920" width="172" height="51" as="geometry" />
