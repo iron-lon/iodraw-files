@@ -136,7 +136,7 @@
         <mxCell id="OrTeo3WWQCcowwRvtheK-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.62;entryX=0.5;entryY=0;rounded=0;fontSize=21;" edge="1" parent="1" source="OrTeo3WWQCcowwRvtheK-1" target="OrTeo3WWQCcowwRvtheK-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="120" />
+              <mxPoint x="420" y="60" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -160,7 +160,7 @@
         <mxCell id="OrTeo3WWQCcowwRvtheK-35" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=1;entryX=1;entryY=0.03;rounded=0;fontSize=21;" edge="1" parent="1" source="OrTeo3WWQCcowwRvtheK-14" target="OrTeo3WWQCcowwRvtheK-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="799" y="1179" />
+              <mxPoint x="460" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
