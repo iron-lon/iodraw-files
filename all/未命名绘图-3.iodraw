@@ -47,7 +47,7 @@
           <mxGeometry x="360" y="80" width="216" height="216" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-15" value="进入会员信息修改页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="669" y="1217" width="220" height="51" as="geometry" />
+          <mxGeometry x="621" y="950" width="220" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-16" value="修改会员信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="701" y="1318" width="156" height="51" as="geometry" />
@@ -143,7 +143,7 @@
         <mxCell id="OrTeo3WWQCcowwRvtheK-32" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.43;exitY=1;entryX=0.46;entryY=0;rounded=0;fontSize=21;" edge="1" parent="1" source="OrTeo3WWQCcowwRvtheK-14" target="OrTeo3WWQCcowwRvtheK-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="759" y="1179" />
+              <mxPoint x="550" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
