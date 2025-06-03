@@ -55,8 +55,8 @@
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-18" value="使用默认管理员账号授权新管理员登录权限" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="606" y="1372" width="252" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="uS3Y1a3vyjxF_AoGe7lT-19" value="是否需要修改/删除管理员?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="972" y="931" width="240" height="240" as="geometry" />
+        <mxCell id="uS3Y1a3vyjxF_AoGe7lT-19" value="是否需要&#xa;修改/删除管理员?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="830" y="440" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-20" value="选择管理员进行编辑/删除" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="892" y="1246" width="244" height="51" as="geometry" />
