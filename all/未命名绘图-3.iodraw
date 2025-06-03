@@ -38,10 +38,10 @@
           <mxGeometry x="60" y="820" width="124" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-12" value="评价出现在预约服务信息页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="77" y="1101" width="252" height="68" as="geometry" />
+          <mxGeometry x="-4" y="890" width="252" height="68" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-13" value="商家收到反馈并作出回应" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="85" y="1190" width="236" height="51" as="geometry" />
+          <mxGeometry x="4" y="980" width="236" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-14" value="是否需要&#xa;修改会员信息?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="350" y="47" width="160" height="163" as="geometry" />
