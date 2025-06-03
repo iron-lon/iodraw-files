@@ -57,6 +57,9 @@
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-13" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;增加会员信息&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1535" y="558" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="9R0IR4Spi1yJSiVMR7sE-16" value="保存新会员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="871" y="920" width="172" height="51" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
