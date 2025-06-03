@@ -19,7 +19,7 @@
         <mxCell id="ynCvroT2MkfAQHhm8KP3-51" value="添加理发师信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="630" width="172" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="ynCvroT2MkfAQHhm8KP3-52" value="是否需要修改/删除理发师?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ynCvroT2MkfAQHhm8KP3-52" value="是否需要修改&#xa;/删除理发师?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="480" y="538" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-53" value="修改/删除理发师信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
         <mxCell id="ynCvroT2MkfAQHhm8KP3-54" value="查看可预约美发项目列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="983" y="449" width="236" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="ynCvroT2MkfAQHhm8KP3-55" value="是否需要添加美发项目?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ynCvroT2MkfAQHhm8KP3-55" value="是否需&#xa;要添加&#xa;美发项目?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="993" y="550" width="216" height="216" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-56" value="添加美发项目信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
