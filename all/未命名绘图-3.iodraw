@@ -55,7 +55,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-10" value="是否需要&#xa;编辑&#xa;理发师信息?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1051" y="380" width="108" height="92" as="geometry" />
+          <mxGeometry x="1072" y="360" width="108" height="92" as="geometry" />
         </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j2xwyp9Q2AEoJkBwXhOV-11" target="j2xwyp9Q2AEoJkBwXhOV-2">
           <mxGeometry relative="1" as="geometry">
@@ -66,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-11" value="编辑理发师信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1051" y="520" width="95" height="31" as="geometry" />
+          <mxGeometry x="1068" y="490" width="95" height="31" as="geometry" />
         </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.594;entryY=0.129;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j2xwyp9Q2AEoJkBwXhOV-10" target="j2xwyp9Q2AEoJkBwXhOV-11">
           <mxGeometry relative="1" as="geometry" />
@@ -91,7 +91,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-21" value="是否需要&#xa;编辑&#xa;项目列表信息?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1247" y="400" width="108" height="92" as="geometry" />
+          <mxGeometry x="1374.5" y="370" width="108" height="92" as="geometry" />
         </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-24" value="编辑项目列表信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1248.5" y="520" width="106.5" height="31" as="geometry" />
