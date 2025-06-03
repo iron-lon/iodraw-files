@@ -35,7 +35,7 @@
           <mxGeometry x="69.5" y="780" width="150.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-11" value="更新预约状态（如待确认、已确认、已完成、已取消等）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="162" y="1000" width="252" height="86" as="geometry" />
+          <mxGeometry x="170" y="900" width="252" height="86" as="geometry" />
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-12" value="预约信息处理完毕，返回预约信息管理页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="133" y="1862" width="252" height="68" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="43" y="1688" />
-              <mxPoint x="43" y="1837" />
+              <mxPoint x="100" y="1810" />
             </Array>
           </mxGeometry>
         </mxCell>
