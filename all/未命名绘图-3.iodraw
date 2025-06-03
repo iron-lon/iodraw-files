@@ -50,7 +50,7 @@
           <mxGeometry x="621" y="950" width="220" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-16" value="修改会员信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="701" y="1318" width="156" height="51" as="geometry" />
+          <mxGeometry x="653" y="1030" width="156" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-17" value="保存修改" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="717" y="1427" width="124" height="51" as="geometry" />
