@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="3SGupzK4aXD1RqxbEUSP">
-    <mxGraphModel dx="453" dy="267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="802" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="594" y="200" width="111" height="58" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-5" value="查看文章列表" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="386" y="410" width="156" height="51" as="geometry" />
+          <mxGeometry x="490" y="290" width="104" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-6" value="是否需要更新文章?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="241" y="656" width="184" height="184" as="geometry" />
@@ -76,9 +76,7 @@
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-24" value="文章管理" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0;rounded=0;fontSize=15;" edge="1" parent="1" source="uS3Y1a3vyjxF_AoGe7lT-4" target="uS3Y1a3vyjxF_AoGe7lT-5">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="530" y="340" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=15;" edge="1" parent="1" source="uS3Y1a3vyjxF_AoGe7lT-5" target="uS3Y1a3vyjxF_AoGe7lT-6">
