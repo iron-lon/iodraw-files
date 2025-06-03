@@ -47,7 +47,7 @@
           <mxGeometry x="360" y="80" width="216" height="216" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-15" value="进入会员信息修改页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="550" y="930" width="220" height="51" as="geometry" />
+          <mxGeometry x="518" y="519" width="220" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-16" value="修改会员信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="582" y="1010" width="156" height="51" as="geometry" />
@@ -140,7 +140,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OrTeo3WWQCcowwRvtheK-32" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.599;exitY=0.928;entryX=0.46;entryY=0;rounded=0;fontSize=21;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OrTeo3WWQCcowwRvtheK-14" target="OrTeo3WWQCcowwRvtheK-15">
+        <mxCell id="OrTeo3WWQCcowwRvtheK-32" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.46;entryY=0;rounded=0;fontSize=21;exitDx=0;exitDy=0;" edge="1" parent="1" source="OrTeo3WWQCcowwRvtheK-14" target="OrTeo3WWQCcowwRvtheK-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="550" y="480" />
@@ -157,7 +157,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OrTeo3WWQCcowwRvtheK-35" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=1;entryX=1;entryY=0.03;rounded=0;fontSize=21;" edge="1" parent="1" source="OrTeo3WWQCcowwRvtheK-14" target="OrTeo3WWQCcowwRvtheK-4">
+        <mxCell id="OrTeo3WWQCcowwRvtheK-35" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.03;rounded=0;fontSize=21;exitDx=0;exitDy=0;" edge="1" parent="1" source="OrTeo3WWQCcowwRvtheK-14" target="OrTeo3WWQCcowwRvtheK-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="460" y="520" />
