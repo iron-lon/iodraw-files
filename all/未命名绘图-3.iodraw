@@ -93,16 +93,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-28" value="查看会员当前信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1621.5" y="670" width="111" height="30" as="geometry" />
+          <mxGeometry x="1759.5" y="660" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9R0IR4Spi1yJSiVMR7sE-30" target="9R0IR4Spi1yJSiVMR7sE-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9R0IR4Spi1yJSiVMR7sE-30" value="修改会员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1613" y="720" width="128" height="20" as="geometry" />
+        <mxCell id="9R0IR4Spi1yJSiVMR7sE-30" value="删除会员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1751" y="710" width="128" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-31" value="保存修改后的会员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1607" y="760" width="140" height="30" as="geometry" />
+          <mxGeometry x="1745" y="750" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
