@@ -26,13 +26,13 @@
           <mxGeometry x="200" y="610" width="156" height="51" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-9" value="保存并发布更新后的文章" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="130" y="720" width="236" height="51" as="geometry" />
+          <mxGeometry x="166" y="700" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-10" value="是否需要&#xa;发布新文章?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="450" y="450" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-11" value="填写新文章信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="340" y="800" width="150" height="30" as="geometry" />
+          <mxGeometry x="380" y="741" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-12" value="保存并发布新文章" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="306" y="1380" width="188" height="51" as="geometry" />
