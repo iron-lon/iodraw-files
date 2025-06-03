@@ -14,10 +14,10 @@
           <mxGeometry x="290.5" y="120" width="153" height="90" as="geometry" />
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-4" value="查看新预约信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="42" y="506" width="172" height="51" as="geometry" />
+          <mxGeometry x="150" y="230" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-5" value="无新预约信息，可进行其他管理操作" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="264" y="497" width="252" height="68" as="geometry" />
+          <mxGeometry x="264" y="460" width="166" height="37" as="geometry" />
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-6" value="是否需要检查预约详情?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="20" y="615" width="216" height="216" as="geometry" />
@@ -52,9 +52,7 @@
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-15" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=0.5;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="1" source="b7OqHQAoDWbPlVsHWRCY-3" target="b7OqHQAoDWbPlVsHWRCY-4">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="200" y="410" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-16" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=15;" edge="1" parent="1" source="b7OqHQAoDWbPlVsHWRCY-3" target="b7OqHQAoDWbPlVsHWRCY-5">
