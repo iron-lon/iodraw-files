@@ -10,11 +10,14 @@
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-1" value="管理员登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1231" y="90" width="140" height="51" as="geometry" />
         </mxCell>
+        <mxCell id="j2xwyp9Q2AEoJkBwXhOV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j2xwyp9Q2AEoJkBwXhOV-2" target="j2xwyp9Q2AEoJkBwXhOV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-2" value="返回理发信息管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1191" y="160" width="220" height="51" as="geometry" />
         </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-4" value="选择&#xa;管理类型?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="280" width="152" height="152" as="geometry" />
+          <mxGeometry x="1231" y="230" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
