@@ -68,7 +68,7 @@
         <mxCell id="ynCvroT2MkfAQHhm8KP3-66" value="理发师信息管理" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ynCvroT2MkfAQHhm8KP3-48" target="ynCvroT2MkfAQHhm8KP3-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="122" y="411" />
+              <mxPoint x="610" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
