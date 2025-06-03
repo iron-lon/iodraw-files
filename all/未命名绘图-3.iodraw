@@ -97,7 +97,7 @@
           <mxGeometry x="1248.5" y="520" width="106.5" height="31" as="geometry" />
         </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-27" value="查看项目分类列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1504" y="519" width="188" height="51" as="geometry" />
+          <mxGeometry x="1504" y="519" width="106" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
