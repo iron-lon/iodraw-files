@@ -17,8 +17,8 @@
             <mxPoint x="1675" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9R0IR4Spi1yJSiVMR7sE-4" value="选择操作类型?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1359" y="592" width="152" height="152" as="geometry" />
+        <mxCell id="9R0IR4Spi1yJSiVMR7sE-4" value="选择&#xa;操作类型?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1599" y="530" width="121" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
