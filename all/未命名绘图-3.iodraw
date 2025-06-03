@@ -55,8 +55,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j2xwyp9Q2AEoJkBwXhOV-16" value="是否需要修改/删除理发师?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="527" y="925" width="240" height="240" as="geometry" />
+        <mxCell id="j2xwyp9Q2AEoJkBwXhOV-16" value="是否需要&#xa;修改/删除理发师?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="527" y="920" width="313" height="245" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
