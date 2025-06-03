@@ -43,7 +43,7 @@
         <mxCell id="ynCvroT2MkfAQHhm8KP3-59" value="查看项目分类列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1304" y="449" width="188" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="ynCvroT2MkfAQHhm8KP3-60" value="是否需要添加项目分类?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ynCvroT2MkfAQHhm8KP3-60" value="是否需要&#xa;添加项目分类?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1289" y="550" width="216" height="216" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-61" value="添加项目分类" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
