@@ -24,7 +24,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j2xwyp9Q2AEoJkBwXhOV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j2xwyp9Q2AEoJkBwXhOV-4" target="j2xwyp9Q2AEoJkBwXhOV-17">
+        <mxCell id="j2xwyp9Q2AEoJkBwXhOV-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="j2xwyp9Q2AEoJkBwXhOV-4" target="j2xwyp9Q2AEoJkBwXhOV-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-19" value="美发项目信息管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j2xwyp9Q2AEoJkBwXhOV-18">
@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-17" value="查看可预约美发项目列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="340" width="147" height="31" as="geometry" />
+          <mxGeometry x="1355" y="310" width="147" height="31" as="geometry" />
         </mxCell>
         <mxCell id="j2xwyp9Q2AEoJkBwXhOV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="j2xwyp9Q2AEoJkBwXhOV-21" target="j2xwyp9Q2AEoJkBwXhOV-24">
           <mxGeometry relative="1" as="geometry" />
