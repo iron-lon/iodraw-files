@@ -20,7 +20,7 @@
           <mxGeometry x="220" y="715" width="172" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-52" value="是否需要修改/删除理发师?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="327" y="855" width="240" height="240" as="geometry" />
+          <mxGeometry x="400" y="760" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ynCvroT2MkfAQHhm8KP3-53" value="修改/删除理发师信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="584" y="1184" width="212" height="51" as="geometry" />
