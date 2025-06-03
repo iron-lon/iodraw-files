@@ -11,7 +11,7 @@
           <mxGeometry x="285.5" y="70" width="163" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-3" value="是否有新的预约信息?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="267" y="120" width="200" height="200" as="geometry" />
+          <mxGeometry x="267" y="120" width="193" height="90" as="geometry" />
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-4" value="查看新预约信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="42" y="506" width="172" height="51" as="geometry" />
