@@ -20,7 +20,7 @@
           <mxGeometry x="472.5" y="340" width="139" height="74" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-7" value="选择文章进行编辑" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="44" y="1026" width="188" height="51" as="geometry" />
+          <mxGeometry x="80" y="920" width="188" height="51" as="geometry" />
         </mxCell>
         <mxCell id="uS3Y1a3vyjxF_AoGe7lT-8" value="更新文章内容" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="60" y="1246" width="156" height="51" as="geometry" />
