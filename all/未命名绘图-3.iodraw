@@ -17,10 +17,10 @@
           <mxGeometry x="150" y="230" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-5" value="无新预约信息，可进行其他管理操作" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="264" y="460" width="166" height="37" as="geometry" />
+          <mxGeometry x="264" y="300" width="166" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="b7OqHQAoDWbPlVsHWRCY-6" value="是否需要检查预约详情?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="20" y="615" width="216" height="216" as="geometry" />
+        <mxCell id="b7OqHQAoDWbPlVsHWRCY-6" value="是否需要&#xa;检查预约详情?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="112" y="330" width="178" height="110" as="geometry" />
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-7" value="检查预约详情（用户信息、预约时间、理发师/项目等）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="127" y="906" width="260" height="68" as="geometry" />
