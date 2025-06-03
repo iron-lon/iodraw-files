@@ -20,16 +20,16 @@
           <mxGeometry x="277.5" y="270" width="166" height="37" as="geometry" />
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-6" value="是否需要&#xa;检查预约详情?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="112" y="290" width="178" height="110" as="geometry" />
+          <mxGeometry x="131" y="290" width="178" height="110" as="geometry" />
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-7" value="检查预约详情（用户信息、预约时间、理发师/项目等）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="188.5" y="460" width="221.5" height="40" as="geometry" />
+          <mxGeometry x="208.5" y="420" width="221.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-8" value="是否需要&#xa;修改预约信息?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="90" y="500" width="150" height="110" as="geometry" />
+          <mxGeometry x="100" y="450" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-9" value="修改预约信息（如时间、理发师、项目等）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="160" y="620" width="230" height="50" as="geometry" />
+          <mxGeometry x="190" y="570" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b7OqHQAoDWbPlVsHWRCY-10" value="是否需要&#xa;更新预约状态?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="70" y="680" width="150.5" height="110" as="geometry" />
