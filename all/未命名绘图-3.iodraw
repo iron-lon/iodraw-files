@@ -99,10 +99,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-30" value="删除会员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1751" y="710" width="128" height="20" as="geometry" />
+          <mxGeometry x="1756.5" y="780" width="128" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9R0IR4Spi1yJSiVMR7sE-31" value="保存修改后的会员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1745" y="750" width="140" height="30" as="geometry" />
+          <mxGeometry x="1744.5" y="870" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9R0IR4Spi1yJSiVMR7sE-32" value="选择&#xa;操作类型?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="650" width="121" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
