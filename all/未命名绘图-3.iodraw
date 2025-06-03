@@ -14,7 +14,7 @@
           <mxGeometry x="53" y="270" width="172" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-4" value="服务未完成，继续等待" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="399" y="1217" width="220" height="51" as="geometry" />
+          <mxGeometry x="320" y="940" width="220" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-5" value="是否需要取消预约?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="47" y="350" width="184" height="184" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="177" y="750" width="168" height="168" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-10" value="对预约服务进行评价" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="101" y="980" width="204" height="51" as="geometry" />
+          <mxGeometry x="101" y="940" width="204" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OrTeo3WWQCcowwRvtheK-11" value="提交评价" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="165" y="1318" width="124" height="51" as="geometry" />
